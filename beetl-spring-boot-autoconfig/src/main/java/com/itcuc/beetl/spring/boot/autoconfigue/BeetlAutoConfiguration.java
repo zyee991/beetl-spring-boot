@@ -1,10 +1,3 @@
-/*
- *
- * Copyright (C) 1999-2016 IFLYTEK Inc.All Rights Reserved.
- * History：
- * Version   Author      Date                              Operation
- * 1.0       yaochen4    2016/11/30                           Create
- */
 package com.itcuc.beetl.spring.boot.autoconfigue;
 
 import org.beetl.core.*;
