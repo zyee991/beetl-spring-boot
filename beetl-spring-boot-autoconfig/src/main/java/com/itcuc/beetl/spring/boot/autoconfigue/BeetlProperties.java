@@ -6,10 +6,9 @@ import org.springframework.util.ReflectionUtils;
 import java.lang.reflect.Method;
 import java.util.Properties;
 
+
 /**
- * @author yaochen4
- * @version 1.0
- * @since 1.0
+ * @author zhangyi
  */
 @ConfigurationProperties(prefix = BeetlProperties.BEETL_PREFIX)
 public class BeetlProperties {
