@@ -28,14 +28,14 @@
     </licenses>
     <developers>
         <developer>
-            <name>piggsoft</name>
-            <email>piggsoft@163.com</email>
+            <name>itcuc</name>
+            <email>zy991@foxmail.com</email>
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com/piggsoft/beetl-spring-boot.git</connection>
-        <developerConnection>scm:git:git@github.com/piggsoft/beetl-spring-boot.git</developerConnection>
-        <url>git@github.com/piggsoft/beetl-spring-boot.git</url>
+        <connection>scm:git:git@github.com/zyee991/beetl-spring-boot.git</connection>
+        <developerConnection>scm:git:git@github.com/zyee991/beetl-spring-boot.git</developerConnection>
+        <url>git@github.com/zyee991/beetl-spring-boot.git</url>
     </scm>
 
     <properties>
