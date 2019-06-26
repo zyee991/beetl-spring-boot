@@ -12,11 +12,11 @@
         <module>beetl-spring-boot-starter</module>
     </modules>
 
-    <parent>
-        <groupId>org.sonatype.oss</groupId>
-        <artifactId>oss-parent</artifactId>
-        <version>9</version>
-    </parent>
+<!--    <parent>-->
+<!--        <groupId>org.sonatype.oss</groupId>-->
+<!--        <artifactId>oss-parent</artifactId>-->
+<!--        <version>9</version>-->
+<!--    </parent>-->
 
     <packaging>pom</packaging>
 
@@ -33,9 +33,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com/zyee991/beetl-spring-boot.git</connection>
-        <developerConnection>scm:git:git@github.com/zyee991/beetl-spring-boot.git</developerConnection>
-        <url>git@github.com/zyee991/beetl-spring-boot.git</url>
+        <connection>https://github.com/zyee991/beetl-spring-boot.git</connection>
+        <developerConnection>https://github.com/zyee991/beetl-spring-boot</developerConnection>
+        <url>https://github.com/zyee991</url>
     </scm>
 
     <properties>
