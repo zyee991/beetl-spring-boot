@@ -3,7 +3,7 @@
 ```
 spring:
   application:
-    name: server-admin-web
+    name: server-name
   mvc:
     view:
       suffix: .html
